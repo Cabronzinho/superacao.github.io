@@ -1,0 +1,67 @@
+html{
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.footer-basic{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+    margin-right: 145px;
+    margin-top: 18px;
+}
+
+.task-bar{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.division{
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+    height: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.textdiv{
+    position: absolute;
+    top: 6%;
+    left: 12%;
+    font-size: 50px;
+}
+
+.name-division{
+    color: black;
+    display: flexbox;
+    bottom: 140px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.home-text{
+    display: flexbox;
+    margin-left: 25px;
+    margin-right: 25px;
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    font-size: 24px;
+}
+
+.Subtext{
+    font-size: 45px;
+}
+
+.image1{
+    display: flex;
+    height: 300px;
+    position: absolute;
+    top: 720px;
+    left: 25%;
+    right: 25%;
+}
