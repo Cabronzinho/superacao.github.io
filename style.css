@@ -65,3 +65,29 @@ a{
     left: 25%;
     right: 25%;
 }
+
+.who-us{
+    text-align: center;
+}
+
+.Contact{
+    display: flexbox;
+    position: absolute;
+    top: 880px;
+    left: 120px;
+}
+
+.wlogo{
+    display: flex;
+    height: 20px;
+    position: absolute;
+    top: 896px;
+    left: 1000px;
+}
+
+.number{
+    display: flexbox;
+    position: absolute;
+    top: 880px;
+    left: 1035px;
+}
